@@ -10,8 +10,8 @@ website:
     left:
       - text: Home
         href: index.qmd
-      - text: About
-        href: about.qmd
+      - text: Schedule
+        href: schedule.qmd
       - text: Organizers
         href: organizers.qmd
       - text: Collaborators
