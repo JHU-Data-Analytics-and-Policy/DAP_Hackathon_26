@@ -6,8 +6,6 @@ about:
 
 The JHU Data Analytics and Policy Hackathon will be held at the Hopkins Bloomberg Center at 555 Pennsylvania Avenue NW, Washington, DC 20001.
 
-## Schedule
-
 **Friday, April 10**
 
 11:00am - noon: Check in
