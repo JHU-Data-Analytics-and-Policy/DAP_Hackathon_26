@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "organizers.html",
-    "href": "organizers.html",
-    "title": "Organizers",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
     "section": "",
-    "text": "Meet the Organizers"
+    "text": "The JHU Data Analytics and Policy Hackathon will be held at the Hopkins Bloomberg Center at 555 Pennsylvania Avenue NW, Washington, DC 20001."
   },
   {
-    "objectID": "hackers.html",
-    "href": "hackers.html",
-    "title": "Hackers",
-    "section": "",
-    "text": "Our Hackers"
+    "objectID": "schedule.html#schedule",
+    "href": "schedule.html#schedule",
+    "title": "Schedule",
+    "section": "Schedule",
+    "text": "Schedule\nFriday, April 10\n11:00am - noon: Check in\nNoon: Lunch opening comments, and organization\n1:00-3:00pm: Work Session 1\n3:00-3:30pm: Snacks and status updates\n3:30-6:00pm: Work Session 2\n6:00 - 7:00pm: Dinner and featured speaker Robin Ghertner\n7:00pm and onwards - continue your work as needed and get some rest.\nSaturday, April 11\n9:00am: light snacks and coffee, opening announcement\n9:30 - noon: Work session 3\nNoon to 1:30pm: Lunch and featured speaker Lula Chen\n1:30 - 3:00pm: Final preparations\n3:00 - 5:00pm: Presentations and closing"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hackathon",
     "section": "",
-    "text": "### **Hey!**\nThanks for stopping by!"
+    "text": "Here is some test stuff for the home page."
   },
   {
     "objectID": "collaborators.html",
@@ -28,10 +28,17 @@
     "text": "Our Collaborators"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hackathon",
+    "objectID": "hackers.html",
+    "href": "hackers.html",
+    "title": "Hackers",
     "section": "",
-    "text": "Here is some test stuff for the home page."
+    "text": "Our Hackers"
+  },
+  {
+    "objectID": "organizers.html",
+    "href": "organizers.html",
+    "title": "Organizers",
+    "section": "",
+    "text": "Collin Paschall\nAt Johns Hopkins, Collin Paschall is the Program Director and a Sr. Lecturer for the MS in Data Analytics and Policy program, and a Sr. Lecturer for the MA in Government program.\nPaschall’s teaching focuses on American government, research design, and data analysis and his research interests include legislative behavior in the U.S. Congress and the relationship between public opinion and the policymaking process.\n\n\n\n\n\nChris Kromphardt\nAt Johns Hopkins, Christopher Kromphardt is the Assistant Program Director and lecturer for the MS in Data Analytics and Policy program.\nKromphardt’s research focuses on how citizens view the performance and legitimacy of judicial institutions, how judicial institutions make decisions, and the design and evaluation of experiential learning activities. Kromphardt has published in the Journal for the Scientific Study of Religion, Journal of Information Technology & Politics, Journal of Law and Courts, Justice System Journal, and Marquette University Law Review, among other outlets. His research has been cited in a report by the Project on Government Oversight to the Presidential Commission on the Supreme Court of the United States and in an amicus curiae brief from the Association of American Medical Colleges in Students for Fair Admissions v. Harvard. His writing for public audiences has appeared in Slate and The Washington Post.\nKromphardt has taught courses on public policy, research methods and research design, constitutional law, and American politics.\nKromphardt received his PhD from the University of Alabama in Political Science.\n\n\n\n\n\nAlan Lujan\nAt Johns Hopkins, Alan Lujan is a Program Coordinator and lecturer for the MS in Applied Economics program. In this role, he supports the administration and coordination of instruction while continuing to pursue his research interests.\nLujan is a computational economist specializing in quantitative macroeconomics and structural econometrics, with particular interests in household finance and inequality. He received his PhD in Economics from The Ohio State University in 2023, where his research focused on developing and applying advanced computational methods to address critical issues in macroeconomics, particularly those related to household financial decision-making and the distribution of wealth."
   }
 ]
