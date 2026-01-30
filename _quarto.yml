@@ -12,6 +12,13 @@ website:
         href: index.qmd
       - text: About
         href: about.qmd
+      - text: Organizers
+        href: organizers.qmd
+      - text: Collaborators
+        href: collaborators.qmd
+      - text: Hackers
+        href: hackers.qmd
+      -
   page-footer:
     left: &#169; 2026 JHU Data Analytics and Policy
     right: Made with [Quarto](https://quarto.org)
