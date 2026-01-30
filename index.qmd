@@ -11,6 +11,6 @@ about:
 
 We face a crisis in contemporary politics and government. In the United States and around the world, study after study shows that many citizens have lost confidence in the ability of government and public sector to identify and address pressing challenges. From public health to migration to climate and everything in between, the public sector faces a doubting citizenry.
 
-To address public problems, we will need skills analysts. That is the purpose of the Johns Hopkins University Data Analytics and Policy Hackathon (DAP \| HACK 2026). For two days in April, we will convene teams of JHU graduate students, who will bring the tools of data science to bear, demonstrating how modern tools can help identify problems and motivate solution frameworks.
+To address public problems, we will need skilled analysts. That is the purpose of the Johns Hopkins University Data Analytics and Policy Hackathon (DAP \| HACK 2026). For two days in April, we will convene teams of JHU graduate students, who will bring the tools of data science to bear, demonstrating how modern tools can help identify problems and motivate solution frameworks.
 
 The Hackathon is supported through the generosity of the Johns Hopkins University Nexus Grants.
