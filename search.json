@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Hackathon",
+    "objectID": "organizers.html",
+    "href": "organizers.html",
+    "title": "Organizers",
     "section": "",
-    "text": "Here is some test stuff for the home page."
+    "text": "Meet the Organizers"
+  },
+  {
+    "objectID": "hackers.html",
+    "href": "hackers.html",
+    "title": "Hackers",
+    "section": "",
+    "text": "Our Hackers"
   },
   {
     "objectID": "about.html",
@@ -12,5 +19,19 @@
     "title": "About",
     "section": "",
     "text": "### **Hey!**\nThanks for stopping by!"
+  },
+  {
+    "objectID": "collaborators.html",
+    "href": "collaborators.html",
+    "title": "Collaborators",
+    "section": "",
+    "text": "Our Collaborators"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hackathon",
+    "section": "",
+    "text": "Here is some test stuff for the home page."
   }
 ]
