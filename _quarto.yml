@@ -3,8 +3,8 @@ project:
   output-dir: docs
   
 website: 
-  title: Hackathon
-  description: A website built with Quarto
+  title: JHU DAP Hackathon 2026
+  description: The Website for the DAP Hackathon 2026
   navbar:
     title: Hackathon
     left:

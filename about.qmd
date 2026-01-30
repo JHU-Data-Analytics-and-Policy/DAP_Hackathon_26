@@ -1,9 +1,0 @@
----
-title: About
-about:
-  template: solana
----
-
-\### \*\*Hey!\*\*
-
-Thanks for stopping by!
