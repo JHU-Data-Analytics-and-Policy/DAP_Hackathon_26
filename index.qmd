@@ -1,13 +1,16 @@
 ---
 pagetitle: Home
-title: "Hackathon"
-subtitle: "Some stuff"
+title: "Data Analytics and Policy Hackathon"
+subtitle: "Johns Hopkins University"
 
 about:
   template: solana
   image-width: 25em
   id: hero-heading
-
 ---
 
-Here is some test stuff for the home page.
+We face a crisis in contemporary politics and government. In the United States and around the world, study after study shows that many citizens have lost confidence in the ability of government and public sector to identify and address pressing challenges. From public health to migration to climate and everything in between, the public sector faces a doubting citizenry.
+
+To address public problems, we will need skills analysts. That is the purpose of the Johns Hopkins University Data Analytics and Policy Hackathon. For two days in April, we will convene teams of JHU graduate students, who will bring the tools of data science to bear, demonstrating how modern tools can help identify problem and propose solution frameworks.
+
+The Hackathon is supported through the generosity of the Johns Hopkins University Nexus Grants.

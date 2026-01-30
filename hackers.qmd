@@ -3,5 +3,5 @@ title: "Hackers"
 format: html
 ---
 
-# Our Hackers
+We have recruited about 30 current recent JHU graduate students to be part of our event. Stay tuned for their biographies, the teams, and their subject matter interests!
 
