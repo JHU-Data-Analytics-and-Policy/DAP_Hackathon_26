@@ -1,0 +1,17 @@
+project:
+  type: website
+  output-dir: docs
+  
+website: 
+  title: Hackathon
+  description: A website built with Quarto
+  navbar:
+    title: Hackathon
+    left:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+  page-footer:
+    left: &#169; 2026 JHU Data Analytics and Policy
+    right: Made with [Quarto](https://quarto.org)

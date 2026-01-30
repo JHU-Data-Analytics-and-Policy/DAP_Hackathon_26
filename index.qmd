@@ -1,0 +1,13 @@
+---
+pagetitle: Home
+title: "Hackathon"
+subtitle: "Some stuff"
+
+about:
+  template: solana
+  image-width: 25em
+  id: hero-heading
+
+---
+
+Here is some test stuff for the home page.
