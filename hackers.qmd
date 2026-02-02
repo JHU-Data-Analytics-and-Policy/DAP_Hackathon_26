@@ -1,7 +1,7 @@
 ---
 title: "Hackers"
 format: html
+css: styles.css
 ---
 
-We have recruited about 30 current recent JHU graduate students to be part of our event. Stay tuned for their biographies, the teams, and their subject matter interests!
-
+We have recruited about 30 current and recent JHU graduate students to be part of our event. Stay tuned for their biographies, the teams, and their subject matter interests!
