@@ -8,9 +8,7 @@ css: styles.css
 ![](collin-paschall.jpg.webp)
 
 ### Collin Paschall
-At Johns Hopkins, Collin Paschall is the Program Director and a Sr. Lecturer for the MS in Data Analytics and Policy program, and a Sr. Lecturer for the MA in Government program.
-
-Paschall’s teaching focuses on American government, research design, and data analysis and his research interests include legislative behavior in the U.S. Congress and the relationship between public opinion and the policymaking process.
+Collin Paschall is the faculty director of the M.S. in Data Analytics and Policy at Johns Hopkins University, where he leads program strategy and curriculum development. His work focuses on preparing students to drive data-informed decision-making in the public sector. Dr. Paschall teaches courses spanning statistics, machine learning, artificial intelligence, research design, and the politics of expertise and policy implementation. A political scientist by training, he earned his Ph.D. from the University of Illinois and holds a J.D. from George Washington University.
 :::
 
 

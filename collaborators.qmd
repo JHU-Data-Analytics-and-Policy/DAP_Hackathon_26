@@ -45,17 +45,6 @@ Pete Lawson is the Data and Visualization Librarian in Data Services at the John
 
 
 ::: bio-entry
-![](damiano.png)
-
-### Pete Damiano
-
-After graduating with a DDS from the UI College of Dentistry, Dr. Damiano served as a commissioned officer in the US Public Health Service's Indian Health Service, providing dental care to members of the Navajo Nation. He received his MPH and completed his training in health services/policy research in UCLA's Robert Wood Johnson Dental Health Services Research Scholars Program.
-
-A UI faculty member for 35 years, Dr. Damiano conducts externally-funded health services/policy research focusing on health disparities, including access to and quality of primary care services for underserved populations. He also teaches health policy-related classes in multiple units on campus. He directed the UI Public Policy Center for 15 years, emphasizing the importance of experiential community-based research and public policy education. He is the author of more than 300 journal articles and research monographs and has been principal investigator on more than 90 funded research studies. Dr. Damiano saw dental patients, including special needs adults, in the UI faculty practice for 35 years.
-:::
-
-
-::: bio-entry
 ![](levay.jpg)
 
 ### Greg LeVay
@@ -75,6 +64,31 @@ At Johns Hopkins, Jeff Allen is a lecturer for the MS in Data Analytics and Poli
 Beyond his role at Johns Hopkins, Allen is a lead analyst at the Federal Reserve Board, where he focuses on payment technology research and financial stability issues. In 2024, he won the Board’s Special Achievement Award for contributions in these areas. Allen previously served as a risk modeling and analytics specialist at the Federal Reserve Bank of New York. He joined the Fed from the World Bank and previously held a variety of positions in financial public policy.
 
 Allen received a PhD in International Political Economy from Johns Hopkins University. 
+:::
+
+
+
+::: bio-entry
+![](damiano.png)
+
+### Pete Damiano
+
+After graduating with a DDS from the UI College of Dentistry, Dr. Damiano served as a commissioned officer in the US Public Health Service's Indian Health Service, providing dental care to members of the Navajo Nation. He received his MPH and completed his training in health services/policy research in UCLA's Robert Wood Johnson Dental Health Services Research Scholars Program.
+
+A UI faculty member for 35 years, Dr. Damiano conducts externally-funded health services/policy research focusing on health disparities, including access to and quality of primary care services for underserved populations. He also teaches health policy-related classes in multiple units on campus. He directed the UI Public Policy Center for 15 years, emphasizing the importance of experiential community-based research and public policy education. He is the author of more than 300 journal articles and research monographs and has been principal investigator on more than 90 funded research studies. Dr. Damiano saw dental patients, including special needs adults, in the UI faculty practice for 35 years.
+:::
+
+
+::: bio-entry
+![](sarah-o-byrne.jpg.webp)
+
+### Sarah O'Byrne
+
+Sarah O’Byrne is the Director and a senior lecturer for the Center for Data Analytics, Policy, and Government. She has been teaching in the program since 2007 and currently teaches courses in global political economy, economics for public policy, political economy of development, corruption, and comparative democracies. She received an AAP Excellence in Teaching Award in 2014.
+
+O’Byrne’s research and writing take an interdisciplinary approach that combines political science and economic perspectives and tools. She is currently examining the role of epistemic communities on policy outcomes, specifically in the area of development aid and corruption.
+
+She holds a Bachelor of Arts in economics from Trinity College, Dublin, and a Master of Arts in economics and PhD in political science from Johns Hopkins University.
 :::
 
 
