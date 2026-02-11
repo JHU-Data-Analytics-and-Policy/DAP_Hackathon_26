@@ -1,7 +1,12 @@
 project:
   type: website
   output-dir: docs
-  
+
+format:
+  html:
+    css: styles.css
+    
+
 website: 
   title: JHU DAP Hackathon 2026
   description: The Website for the DAP Hackathon 2026
