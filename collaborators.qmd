@@ -1,0 +1,98 @@
+---
+title: "Collaborators"
+about:
+  template: solana
+---
+
+We are pleased to welcome a number of outside collaborators who are supporting our event through their scholarship and professional support. Along with the Hackers and Conveners, we please to welcome our **featured speakers**, **project consultants**, and **judges**.
+
+*This list is under construction and more names will be added!*
+
+## Featured Speakers
+
+::: bio-entry
+![](ghertner.jpg)
+
+### Robin Ghertner
+
+Robin Ghertner is Founding Director of Strategic Policy Intelligence at the Child Welfare Wonk. At the Wonk, he leads efforts to use data and analysis to provide unique insight for decision-makers, advocates, and analysts working on child and family policy.
+
+Prior to joining the Rollins School at Emory, Robin Ghertner had a successful 20-year career in federal and local government. Most recently, Robin was the Acting Associate Deputy Assistant Secretary and Director of the Division of Data and Technical Analysis in the Office of the Assistant Secretary for Planning and Evaluation, within the U.S. Department of Health and Human Services. In HSP, Robin directs a broad portfolio of projects taking advantage of quantitative and qualitative analysis as well as survey and administrative data. These include analysis on refugee integration, planning for unaccompanied children inflows, outcomes of child care subsidy participation, the relationship between substance use and foster care caseloads, and many other topics. He has expertise in a wide range of statistical methods, qualitative methods, and survey design and administration, and familiarity with numerous federal statistical surveys.
+
+Before his time at HHS, Robin was a senior research analyst and lead statistician in the Office of Research and Evaluation at AmeriCorps. In this role, Robin led a portfolio of research on improving grant-making processes, grantee community impact, and national service member outcomes. Prior to working for the federal government, Robin provided direct services in New York City in various capacities. Among other projects, he implemented the nation’s largest translation and interpretation policy for the NYC Department of Education, and directed a social service program for immigrants in Queens. 
+
+Robin received his Masters in Public Policy from George Washington University, where he focused on program evaluation and conducted various cost-benefit analyses and economic simulations on the impact of immigration policies as well as evaluations of DC human services programs. He lives in Silver Spring with his wife Gina and three children. He is a percussionist trained in Jazz, Latin, and Korean music, and you can occasionally see him performing across the DC metro region. Among various volunteer pursuits, he teaches percussion and meditation classes (not at the same time!) to children and adults. 
+:::
+
+::: bio-entry
+![](chen.jpg)
+
+### Lula Chen
+
+Lula is the Research Director at MIT GOV/LAB, where she currently works on projects about trust, public goods, technology in government, and Covid-19, often focusing on the roles and attitudes of bureaucrats.  She specializes in policy evaluation using randomized controlled trials, causal inference, and quantitative methods. She also studies how individual biases affect group decision-making in foreign policy. During her doctoral studies, she served as a Methods Specialist with the Office of Evaluation Sciences at the U.S. General Services Administration and conducted research on taxation and public service delivery in Malawi as a part of the EGAP Metaketa Initiative. Prior to starting her PhD, she was a program manager at Sister Cities International for U.S.-Chinese-African trilateral municipal cooperation projects. Lula holds a BSFS in Comparative Studies and an MA in Security Studies from Georgetown University. She received her PhD in Political Science from the University of Illinois at Urbana-Champaign.
+:::
+
+## Project Consultants
+
+
+::: bio-entry
+![](lawson.jpg)
+
+### Pete Lawson
+
+Pete Lawson is the Data and Visualization Librarian in Data Services at the Johns Hopkins University Sheridan Libraries. Pete has a Ph.D. from Tulane University, where he developed new machine-learning approaches to assess and visualize the presence and progression of prostate cancer in digital histology. As the Data and Visualization Librarian, Pete works directly with researchers to help them find, use, and visualize data. Pete also teaches workshops on data visualization in R and Python.
+:::
+
+
+::: bio-entry
+![](levay.jpg)
+
+### Greg LeVay
+
+Greg LeVay is a graduate of the Johns Hopkins University Data Analytics and Policy program. He is a data scientist with experience creating predictive models and generating insights with Python and R. LeVay is a data scientists with the Cybersecurity and Infrastructure Agency (CISA). 
+:::
+
+## Judges
+
+::: bio-entry
+![](allen.jpg)
+
+### Jeff Allen
+
+At Johns Hopkins, Jeff Allen is a lecturer for the MS in Data Analytics and Policy program and the recipient of the program’s 2023-24 Excellence in Teaching Award. His research focuses on applying statistical modeling and machine learning to monitor aspects of the global financial system and to evaluate the efficacy of financial innovations. His academic research has appeared in the Journal of Economics and Finance, Business and Politics, PLoS ONE, and the Federal Reserve’s Finance and Economics Discussion Series.
+
+Beyond his role at Johns Hopkins, Allen is a lead analyst at the Federal Reserve Board, where he focuses on payment technology research and financial stability issues. In 2024, he won the Board’s Special Achievement Award for contributions in these areas. Allen previously served as a risk modeling and analytics specialist at the Federal Reserve Bank of New York. He joined the Fed from the World Bank and previously held a variety of positions in financial public policy.
+
+Allen received a PhD in International Political Economy from Johns Hopkins University. 
+:::
+
+
+
+::: bio-entry
+![](damiano.png)
+
+### Pete Damiano
+
+After graduating with a DDS from the UI College of Dentistry, Dr. Damiano served as a commissioned officer in the US Public Health Service's Indian Health Service, providing dental care to members of the Navajo Nation. He received his MPH and completed his training in health services/policy research in UCLA's Robert Wood Johnson Dental Health Services Research Scholars Program.
+
+A UI faculty member for 35 years, Dr. Damiano conducts externally-funded health services/policy research focusing on health disparities, including access to and quality of primary care services for underserved populations. He also teaches health policy-related classes in multiple units on campus. He directed the UI Public Policy Center for 15 years, emphasizing the importance of experiential community-based research and public policy education. He is the author of more than 300 journal articles and research monographs and has been principal investigator on more than 90 funded research studies. Dr. Damiano saw dental patients, including special needs adults, in the UI faculty practice for 35 years.
+:::
+
+
+::: bio-entry
+![](sarah-o-byrne.jpg.webp)
+
+### Sarah O'Byrne
+
+Sarah O’Byrne is the Director and a senior lecturer for the Center for Data Analytics, Policy, and Government. She has been teaching in the program since 2007 and currently teaches courses in global political economy, economics for public policy, political economy of development, corruption, and comparative democracies. She received an AAP Excellence in Teaching Award in 2014.
+
+O’Byrne’s research and writing take an interdisciplinary approach that combines political science and economic perspectives and tools. She is currently examining the role of epistemic communities on policy outcomes, specifically in the area of development aid and corruption.
+
+She holds a Bachelor of Arts in economics from Trinity College, Dublin, and a Master of Arts in economics and PhD in political science from Johns Hopkins University.
+:::
+
+
+
+
+
+

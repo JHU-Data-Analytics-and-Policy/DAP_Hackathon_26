@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+format:
+  html:
+    css: styles.css
+    
+
+website: 
+  title: JHU DAP Hackathon 2026
+  description: The Website for the DAP Hackathon 2026
+  navbar:
+    title: JHU | DAP | HACK 2026
+    left:
+      - text: About
+        href: index.qmd
+      - text: Schedule
+        href: schedule.qmd
+      - text: Organizers
+        href: organizers.qmd
+      - text: Collaborators
+        href: collaborators.qmd
+      - text: Hackathon Teams
+        href: hackers.qmd
