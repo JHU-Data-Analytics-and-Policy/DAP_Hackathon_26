@@ -17,3 +17,63 @@
 .bio-entry h3 {
     margin-top: 0;
 }
+
+details {
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee; /* Adds visual separation between entries */
+}
+
+details summary {
+  cursor: pointer;
+  color: #0066cc;
+  font-weight: 500;
+  padding: 8px 0;
+  list-style: none;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::before {
+  content: "▶ ";
+  font-size: 0.8em;
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+details[open] summary::before {
+  transform: rotate(90deg);
+}
+
+details summary:hover {
+  color: #004499;
+  text-decoration: underline;
+}
+
+details .bio-content {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 15px 20px;
+  margin-top: 10px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+  background-color: #f9f9f9;
+  border-left: 3px solid #0066cc;
+  border-radius: 0 8px 8px 0;
+}
+
+details .bio-content img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0; /* Prevents image from shrinking */
+}
+
+details .bio-content .bio-text {
+  flex: 1;
+}
