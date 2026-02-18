@@ -21,7 +21,7 @@
 details {
   margin-bottom: 20px;
   padding-bottom: 15px;
-  border-bottom: 1px solid #eee; /* Adds visual separation between entries */
+  border-bottom: 1px solid #eee;
 }
 
 details summary {
@@ -66,12 +66,25 @@ details .bio-content {
   border-radius: 0 8px 8px 0;
 }
 
-details .bio-content img {
-  width: 150px;
-  height: 150px;
+/* More specific selectors to override Quarto's defaults */
+details .bio-content img,
+details .bio-content p img,
+details .bio-content .quarto-figure img,
+details .bio-content figure img {
+  width: 150px !important;
+  height: 150px !important;
   border-radius: 50%;
   object-fit: cover;
-  flex-shrink: 0; /* Prevents image from shrinking */
+  flex-shrink: 0;
+  max-width: 150px !important;
+}
+
+/* Remove any margin Quarto adds to figure/p wrappers */
+details .bio-content p,
+details .bio-content figure,
+details .bio-content .quarto-figure {
+  margin: 0;
+  flex-shrink: 0;
 }
 
 details .bio-content .bio-text {
