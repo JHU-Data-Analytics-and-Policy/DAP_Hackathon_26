@@ -1,13 +1,21 @@
 ---
 pagetitle: Home
-title: "Data Analytics and Policy Hackathon"
-subtitle: "Johns Hopkins University"
+title: "DAP|HACK 2026"
+image: logo.png
 
 about:
-  template: solana
-  image-width: 25em
+  template: jolla
   id: hero-heading
+  image-width: 600px
+  image-shape: rectangle
+
 ---
+
+<style>
+.about-contents, .about-entity {
+  text-align: left;
+}
+</style>
 
 We face a crisis in contemporary politics and government. In the United States and around the world, lived experience and study after study show that many citizens have lost confidence in the ability of government and the public sector to identify and address pressing challenges. From public health to migration to climate and everything in between, the public sector faces a doubting citizenry.
 

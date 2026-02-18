@@ -21,9 +21,6 @@ Our "hackers" are 25 current and recent JHU graduate students from the MS in Dat
 
 This theme explores how governments can make decisions, budgets, and performance visible in ways that feel meaningful and trustworthy to residents. It centers on closing the promise–performance gap by pairing clear reporting with honest communication about uncertainty, trade-offs, and implementation progress. It also grapples with how privacy and security feature in transparency policy. The aim is to show how transparency, when designed for comprehension and accountability, can invite engagement rather than fuel cynicism.
 
-Raymond Tam
-
-
 
 <details>
 
@@ -40,6 +37,7 @@ Jay Chok is a graduate student majoring in Financial Economics at Johns Hopkins 
 
 </details>
 
+Raymond Tam
 
 Hitanshi Garg
 
@@ -102,27 +100,27 @@ JP Furman
 
 This theme examines how institutions can reduce disparities in access, outcomes, and treatment across health, justice, education, and employment. It looks for biased processes and bottlenecks that quietly shape inequity, and considers how transparency, accountability, and community co-design can shift both performance and perception. The narrative is about building systems that not only function better but also feel fair, respectful, and responsive to those they serve.
 
--   Jeanette Perthel
+Jeanette Perthel
 
--   Lauren Wilmoth
+Lauren Wilmoth
 
--   Arya Nair
+Arya Nair
 
--   Kristin Bruce
+Kristin Bruce
 
--   Brian Powers
+Brian Powers
 
 **Democracy and Misinformation**
 
 The focus here is on safeguarding civic participation by improving information integrity and voter understanding amid polarized media and digital manipulation. It considers interventions like source labeling, content provenance, bot detection, and neutral issue summaries, aiming to increase knowledge without overwhelming or biasing users. The broader arc is a democratic ecosystem where rules are clear, data privacy is respected, and citizens can make informed choices with confidence.
 
--   Josh Gamble
+Josh Gamble
 
--   Zhiquan Jiang
+Zhiquan Jiang
 
--   Qikai Zhou
+Qikai Zhou
 
--   Samuel Towler
+Samuel Towler
 
 <details>
 
@@ -159,10 +157,10 @@ Yutan Zhang recently completed an M.S. in Applied Economics at Johns Hopkins Uni
 </details>
 
 
--   Jie Zhou
+Jie Zhou
 
--   Zhuocheng Yan
+Zhuocheng Yan
 
--   Yutong Li
+Yutong Li
 
--   Dan Wang
+Dan Wang

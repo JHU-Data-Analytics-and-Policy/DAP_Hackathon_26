@@ -4,36 +4,34 @@ about:
   template: solana
 ---
 
-::: {.bio-entry}
+::: bio-entry
 ![](collin-paschall.jpg.webp)
 
 ### Collin Paschall
+
 Collin Paschall is the faculty director of the M.S. in Data Analytics and Policy at Johns Hopkins University, where he leads program strategy and curriculum development. His work focuses on preparing students to drive data-informed decision-making in the public sector. Dr. Paschall teaches courses spanning statistics, machine learning, artificial intelligence, research design, and the politics of expertise and policy implementation. A political scientist by training, he earned his Ph.D. from the University of Illinois and holds a J.D. from George Washington University.
 :::
 
-
-
-::: {.bio-entry}
+::: bio-entry
 ![](bio-christopher-kromphardt.jpg.webp)
 
 ### Chris Kromphardt
+
 At Johns Hopkins, Christopher Kromphardt is the Assistant Program Director and lecturer for the MS in Data Analytics and Policy program.
 
-Kromphardt’s research focuses on how citizens view the performance and legitimacy of judicial institutions, how judicial institutions make decisions, and the design and evaluation of experiential learning activities. Kromphardt has published in the Journal for the Scientific Study of Religion, Journal of Information Technology & Politics, Journal of Law and Courts, Justice System Journal, and Marquette University Law Review, among other outlets. His research has been cited in a report by the Project on Government Oversight to the Presidential Commission on the Supreme Court of the United States and in an amicus curiae brief from the Association of American Medical Colleges in Students for Fair Admissions v. Harvard. His writing for public audiences has appeared in Slate and The Washington Post.
+Kromphardt’s research focuses on how citizens view the performance and legitimacy of judicial institutions, how judicial institutions make decisions, and the design and evaluation of experiential learning activities. Kromphardt has published in the *Journal for the Scientific Study of Religion*, *Journal of Information Technology & Politics*, *Journal of Law and Courts*, *Justice System Journal*, and *Marquette University Law Review*, among other outlets. His research has been cited in a report by the Project on Government Oversight to the Presidential Commission on the Supreme Court of the United States and in an amicus curiae brief from the *Association of American Medical Colleges in Students for Fair Admissions v. Harvard*. His writing for public audiences has appeared in Slate and The Washington Post.
 
 Kromphardt has taught courses on public policy, research methods and research design, constitutional law, and American politics.
 
 Kromphardt received his PhD from the University of Alabama in Political Science.
 :::
 
-
-::: {.bio-entry}
+::: bio-entry
 ![](bio-alan-lujan.jpg.webp)
 
 ### Alan Lujan
+
 At Johns Hopkins, Alan Lujan is a Program Coordinator and lecturer for the MS in Applied Economics program. In this role, he supports the administration and coordination of instruction while continuing to pursue his research interests.
 
 Lujan is a computational economist specializing in quantitative macroeconomics and structural econometrics, with particular interests in household finance and inequality. He received his PhD in Economics from The Ohio State University in 2023, where his research focused on developing and applying advanced computational methods to address critical issues in macroeconomics, particularly those related to household financial decision-making and the distribution of wealth.
 :::
-
-
