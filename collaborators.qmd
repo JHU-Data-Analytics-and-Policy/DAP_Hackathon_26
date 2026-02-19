@@ -50,11 +50,11 @@ Before joining GovEx, K'lila built expertise across public-sector and nonprofit 
 :::
 
 ::: bio-entry
-![](levay.jpg)
+![](greg_levay.jpeg)
 
 ### Greg LeVay
 
-Greg LeVay is a graduate of the Johns Hopkins University Data Analytics and Policy program. LeVay is a data scientist with the Cybersecurity and Infrastructure Agency (CISA). He has experience creating predictive models and generating insights with Python and R. 
+Greg LeVay is a data scientist at the Cybersecurity and Infrastructure Security Agency (CISA), where he helps the agency operate more effectively through the use of data-backed methods. His current work includes process automation using Python, dashboard creation using PowerBI, and data engineering using SQL. He graduated with a MS in Data Analytics and Policy from Johns Hopkins University in 2022.
 :::
 
 ## Judges
