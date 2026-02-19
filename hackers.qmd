@@ -2,6 +2,7 @@
 title: "Hackathon Teams"
 about:
   template: solana
+toc: true
 ---
 
 ```{=html}

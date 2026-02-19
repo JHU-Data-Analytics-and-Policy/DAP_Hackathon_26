@@ -2,6 +2,7 @@
 title: "Organizers"
 about:
   template: solana
+toc: true
 ---
 
 ::: bio-entry

@@ -2,10 +2,10 @@
 title: "Collaborators"
 about:
   template: solana
+toc: true
 ---
 
-We are pleased to welcome a number of outside collaborators who are supporting our event through their scholarship and professional support. Along with the Hackers and Conveners, we please to welcome our **featured speakers**, **project consultants**, and **judges**.
-
+We are pleased to welcome a number of outside collaborators who are supporting our event through their scholarship and professional support. 
 *This list is under construction and more names will be added!*
 
 ## Featured Speakers
