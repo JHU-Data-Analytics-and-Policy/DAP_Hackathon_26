@@ -44,7 +44,9 @@ Pete Lawson is the Data and Visualization Librarian in Data Services at the John
 
 ### K'lila Nooning
 
-K'lila Nooning is a data engineer with the Bloomberg Center for Government Excellence at Johns Hopkins University. 
+K'lila Nooning is a Data Engineer with the Bloomberg Center for Government Excellence (GovEx), dedicated to making complex data more trustworthy, accessible, and useful for the communities it serves. They design and build data pipelines that bring rigor to messy, real-world data, specializing in uncertainty quantification, error-propagation methodologies, and data quality assurance. 
+
+Before joining GovEx, K'lila built expertise across public-sector and nonprofit roles, developing skills in coding, business intelligence, data warehousing, and analytics. They hold an MSPH in Biostatistics from Tulane University and are driven by a belief that good data infrastructure is foundational to equitable, evidence-based governance and that the communities most affected by policy decisions deserve data that accurately reflects their realities.
 :::
 
 ::: bio-entry
