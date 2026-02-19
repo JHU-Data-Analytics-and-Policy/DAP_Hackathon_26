@@ -5,8 +5,7 @@ about:
 toc: true
 ---
 
-We are pleased to welcome a number of outside collaborators who are supporting our event through their scholarship and professional support. 
-*This list is under construction and more names will be added!*
+We are pleased to welcome a number of outside collaborators who are supporting our event through their scholarship and professional support. *This list is under construction and more names will be added!*
 
 ## Featured Speakers
 
@@ -15,7 +14,7 @@ We are pleased to welcome a number of outside collaborators who are supporting o
 
 ### Robin Ghertner
 
-Robin Ghertner is Founding Director of Strategic Policy Intelligence at the Child Welfare Wonk. At the Wonk, he leads efforts to use data and analysis to provide unique insight for decision-makers, advocates, and analysts working on child and family policy. Prior to this project, Robin had a 20-year career in federal and local government. Most recently, Robin was the Acting Associate Deputy Assistant Secretary and Director of the Division of Data and Technical Analysis in the Office of the Assistant Secretary for Planning and Evaluation, within the U.S. Department of Health and Human Services. Before his time at HHS, Robin was a senior research analyst and lead statistician in the Office of Research and Evaluation at AmeriCorps. In this role, Ghertner led a portfolio of research on improving grant-making processes, grantee community impact, and national service member outcomes. Prior to working for the federal government, Robin provided direct services in New York City in various capacities. Among other projects, he implemented the nation’s largest translation and interpretation policy for the NYC Department of Education, and directed a social service program for immigrants in Queens. 
+Robin Ghertner is Founding Director of Strategic Policy Intelligence at the Child Welfare Wonk. At the Wonk, he leads efforts to use data and analysis to provide unique insight for decision-makers, advocates, and analysts working on child and family policy. Prior to this project, Robin had a 20-year career in federal and local government. Most recently, Robin was the Acting Associate Deputy Assistant Secretary and Director of the Division of Data and Technical Analysis in the Office of the Assistant Secretary for Planning and Evaluation, within the U.S. Department of Health and Human Services. Before his time at HHS, Robin was a senior research analyst and lead statistician in the Office of Research and Evaluation at AmeriCorps. In this role, Ghertner led a portfolio of research on improving grant-making processes, grantee community impact, and national service member outcomes. Prior to working for the federal government, Robin provided direct services in New York City in various capacities. Among other projects, he implemented the nation’s largest translation and interpretation policy for the NYC Department of Education, and directed a social service program for immigrants in Queens.
 :::
 
 ::: bio-entry
@@ -23,11 +22,10 @@ Robin Ghertner is Founding Director of Strategic Policy Intelligence at the Chil
 
 ### Lula Chen
 
-Lula is the Research Director at MIT GOV/LAB, where she currently works on projects about trust, public goods, technology in government, and Covid-19, often focusing on the roles and attitudes of bureaucrats.  She specializes in policy evaluation using randomized controlled trials, causal inference, and quantitative methods. She also studies how individual biases affect group decision-making in foreign policy. During her doctoral studies, she served as a Methods Specialist with the Office of Evaluation Sciences at the U.S. General Services Administration and conducted research on taxation and public service delivery in Malawi as a part of the EGAP Metaketa Initiative. Prior to starting her PhD, she was a program manager at Sister Cities International for U.S.-Chinese-African trilateral municipal cooperation projects. Lula holds a BSFS in Comparative Studies and an MA in Security Studies from Georgetown University. She received her PhD in Political Science from the University of Illinois at Urbana-Champaign.
+Lula is the Research Director at MIT GOV/LAB, where she currently works on projects about trust, public goods, technology in government, and Covid-19, often focusing on the roles and attitudes of bureaucrats. She specializes in policy evaluation using randomized controlled trials, causal inference, and quantitative methods. She also studies how individual biases affect group decision-making in foreign policy. During her doctoral studies, she served as a Methods Specialist with the Office of Evaluation Sciences at the U.S. General Services Administration and conducted research on taxation and public service delivery in Malawi as a part of the EGAP Metaketa Initiative. Prior to starting her PhD, she was a program manager at Sister Cities International for U.S.-Chinese-African trilateral municipal cooperation projects. Lula holds a BSFS in Comparative Studies and an MA in Security Studies from Georgetown University. She received her PhD in Political Science from the University of Illinois at Urbana-Champaign.
 :::
 
 ## Project Consultants
-
 
 ::: bio-entry
 ![](lawson.jpg)
@@ -37,14 +35,12 @@ Lula is the Research Director at MIT GOV/LAB, where she currently works on proje
 Pete Lawson is the Data and Visualization Librarian in Data Services at the Johns Hopkins University Sheridan Libraries. Pete has a Ph.D. from Tulane University, where he developed new machine-learning approaches to assess and visualize the presence and progression of prostate cancer in digital histology. As the Data and Visualization Librarian, Pete works directly with researchers to help them find, use, and visualize data. Pete also teaches workshops on data visualization in R and Python.
 :::
 
-
-
 ::: bio-entry
 ![]()
 
 ### K'lila Nooning
 
-K'lila Nooning is a Data Engineer with the Bloomberg Center for Government Excellence (GovEx), dedicated to making complex data more trustworthy, accessible, and useful for the communities it serves. They design and build data pipelines that bring rigor to messy, real-world data, specializing in uncertainty quantification, error-propagation methodologies, and data quality assurance. 
+K'lila Nooning is a Data Engineer with the Bloomberg Center for Government Excellence (GovEx), dedicated to making complex data more trustworthy, accessible, and useful for the communities it serves. They design and build data pipelines that bring rigor to messy, real-world data, specializing in uncertainty quantification, error-propagation methodologies, and data quality assurance.
 
 Before joining GovEx, K'lila built expertise across public-sector and nonprofit roles, developing skills in coding, business intelligence, data warehousing, and analytics. They hold an MSPH in Biostatistics from Tulane University and are driven by a belief that good data infrastructure is foundational to equitable, evidence-based governance and that the communities most affected by policy decisions deserve data that accurately reflects their realities.
 :::
@@ -68,10 +64,10 @@ At Johns Hopkins, Jeff Allen is a lecturer for the MS in Data Analytics and Poli
 
 Beyond his role at Johns Hopkins, Allen is a lead analyst at the Federal Reserve Board, where he focuses on payment technology research and financial stability issues. In 2024, he won the Board’s Special Achievement Award for contributions in these areas. Allen previously served as a risk modeling and analytics specialist at the Federal Reserve Bank of New York. He joined the Fed from the World Bank and previously held a variety of positions in financial public policy.
 
-Allen received a PhD in International Political Economy from Johns Hopkins University. 
+Allen received a PhD in International Political Economy from Johns Hopkins University.
+
+*Disclaimer: the views expressed in Allen’s teaching and research are his own and do not necessarily represent those of his employer.*
 :::
-
-
 
 ::: bio-entry
 ![](damiano.png)
@@ -82,7 +78,6 @@ After graduating with a DDS from the UI College of Dentistry, Dr. Damiano served
 
 A UI faculty member for 35 years, Dr. Damiano conducts externally-funded health services/policy research focusing on health disparities, including access to and quality of primary care services for underserved populations. He also teaches health policy-related classes in multiple units on campus. He directed the UI Public Policy Center for 15 years, emphasizing the importance of experiential community-based research and public policy education. He is the author of more than 300 journal articles and research monographs and has been principal investigator on more than 90 funded research studies. Dr. Damiano saw dental patients, including special needs adults, in the UI faculty practice for 35 years.
 :::
-
 
 ::: bio-entry
 ![](sarah-o-byrne.jpg.webp)
@@ -95,9 +90,3 @@ O’Byrne’s research and writing take an interdisciplinary approach that combi
 
 She holds a Bachelor of Arts in economics from Trinity College, Dublin, and a Master of Arts in economics and PhD in political science from Johns Hopkins University.
 :::
-
-
-
-
-
-
