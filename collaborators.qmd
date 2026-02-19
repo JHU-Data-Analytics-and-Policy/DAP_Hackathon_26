@@ -15,13 +15,7 @@ We are pleased to welcome a number of outside collaborators who are supporting o
 
 ### Robin Ghertner
 
-Robin Ghertner is Founding Director of Strategic Policy Intelligence at the Child Welfare Wonk. At the Wonk, he leads efforts to use data and analysis to provide unique insight for decision-makers, advocates, and analysts working on child and family policy.
-
-Prior to joining the Rollins School at Emory, Robin Ghertner had a successful 20-year career in federal and local government. Most recently, Robin was the Acting Associate Deputy Assistant Secretary and Director of the Division of Data and Technical Analysis in the Office of the Assistant Secretary for Planning and Evaluation, within the U.S. Department of Health and Human Services. In HSP, Robin directs a broad portfolio of projects taking advantage of quantitative and qualitative analysis as well as survey and administrative data. These include analysis on refugee integration, planning for unaccompanied children inflows, outcomes of child care subsidy participation, the relationship between substance use and foster care caseloads, and many other topics. He has expertise in a wide range of statistical methods, qualitative methods, and survey design and administration, and familiarity with numerous federal statistical surveys.
-
-Before his time at HHS, Robin was a senior research analyst and lead statistician in the Office of Research and Evaluation at AmeriCorps. In this role, Robin led a portfolio of research on improving grant-making processes, grantee community impact, and national service member outcomes. Prior to working for the federal government, Robin provided direct services in New York City in various capacities. Among other projects, he implemented the nation’s largest translation and interpretation policy for the NYC Department of Education, and directed a social service program for immigrants in Queens. 
-
-Robin received his Masters in Public Policy from George Washington University, where he focused on program evaluation and conducted various cost-benefit analyses and economic simulations on the impact of immigration policies as well as evaluations of DC human services programs. He lives in Silver Spring with his wife Gina and three children. He is a percussionist trained in Jazz, Latin, and Korean music, and you can occasionally see him performing across the DC metro region. Among various volunteer pursuits, he teaches percussion and meditation classes (not at the same time!) to children and adults. 
+Robin Ghertner is Founding Director of Strategic Policy Intelligence at the Child Welfare Wonk. At the Wonk, he leads efforts to use data and analysis to provide unique insight for decision-makers, advocates, and analysts working on child and family policy. Prior to this project, Robin had a 20-year career in federal and local government. Most recently, Robin was the Acting Associate Deputy Assistant Secretary and Director of the Division of Data and Technical Analysis in the Office of the Assistant Secretary for Planning and Evaluation, within the U.S. Department of Health and Human Services. Before his time at HHS, Robin was a senior research analyst and lead statistician in the Office of Research and Evaluation at AmeriCorps. In this role, Ghertner led a portfolio of research on improving grant-making processes, grantee community impact, and national service member outcomes. Prior to working for the federal government, Robin provided direct services in New York City in various capacities. Among other projects, he implemented the nation’s largest translation and interpretation policy for the NYC Department of Education, and directed a social service program for immigrants in Queens. 
 :::
 
 ::: bio-entry
@@ -44,12 +38,21 @@ Pete Lawson is the Data and Visualization Librarian in Data Services at the John
 :::
 
 
+
+::: bio-entry
+![](nooning.jpg)
+
+### K'lila Nooning
+
+K'lila Nooning is a data engineer with the Bloomberg Center for Government Excellence at Johns Hopkins University. 
+:::
+
 ::: bio-entry
 ![](levay.jpg)
 
 ### Greg LeVay
 
-Greg LeVay is a graduate of the Johns Hopkins University Data Analytics and Policy program. He is a data scientist with experience creating predictive models and generating insights with Python and R. LeVay is a data scientists with the Cybersecurity and Infrastructure Agency (CISA). 
+Greg LeVay is a graduate of the Johns Hopkins University Data Analytics and Policy program. LeVay is a data scientist with the Cybersecurity and Infrastructure Agency (CISA). He has experience creating predictive models and generating insights with Python and R. 
 :::
 
 ## Judges

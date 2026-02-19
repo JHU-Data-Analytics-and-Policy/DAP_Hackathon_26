@@ -8,10 +8,10 @@ format:
     
 
 website: 
-  title: JHU DAP Hackathon 2026
+  title: DAP | HACK 2026
   description: The Website for the DAP Hackathon 2026
   navbar:
-    title: JHU | DAP | HACK 2026
+    title: DAP | HACK 2026
     left:
       - text: About
         href: index.qmd

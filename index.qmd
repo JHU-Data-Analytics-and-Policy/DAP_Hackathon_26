@@ -1,6 +1,6 @@
 ---
 pagetitle: Home
-title: "DAP|HACK 2026"
+title: "DAP | HACK 2026"
 image: logo.png
 
 about:
