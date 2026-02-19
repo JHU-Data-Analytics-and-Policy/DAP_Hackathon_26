@@ -173,10 +173,11 @@ ul.task-list li input[type="checkbox"] {
 </section>
 </div>
 <div class="bio-entry">
-<p><img src="nooning.jpg" class="img-fluid"></p>
+<p><img src=".png" class="img-fluid"></p>
 <section id="klila-nooning" class="level3">
 <h3 data-anchor-id="klila-nooning">K’lila Nooning</h3>
-<p>K’lila Nooning is a data engineer with the Bloomberg Center for Government Excellence at Johns Hopkins University.</p>
+<p>K’lila Nooning is a Data Engineer with the Bloomberg Center for Government Excellence (GovEx), dedicated to making complex data more trustworthy, accessible, and useful for the communities it serves. They design and build data pipelines that bring rigor to messy, real-world data, specializing in uncertainty quantification, error-propagation methodologies, and data quality assurance.</p>
+<p>Before joining GovEx, K’lila built expertise across public-sector and nonprofit roles, developing skills in coding, business intelligence, data warehousing, and analytics. They hold an MSPH in Biostatistics from Tulane University and are driven by a belief that good data infrastructure is foundational to equitable, evidence-based governance and that the communities most affected by policy decisions deserve data that accurately reflects their realities.</p>
 </section>
 </div>
 <div class="bio-entry">
@@ -289,7 +290,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/JHU-Data-Analytics-and-Policy\.github\.io\/DAP_Hackathon_26\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

@@ -40,7 +40,7 @@ Pete Lawson is the Data and Visualization Librarian in Data Services at the John
 
 
 ::: bio-entry
-![](nooning.jpg)
+![]()
 
 ### K'lila Nooning
 
