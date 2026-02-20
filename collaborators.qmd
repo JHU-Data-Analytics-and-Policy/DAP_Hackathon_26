@@ -53,6 +53,16 @@ Before joining GovEx, K'lila built expertise across public-sector and nonprofit 
 Greg LeVay is a data scientist at the Cybersecurity and Infrastructure Security Agency (CISA), where he helps the agency operate more effectively through the use of data-backed methods. His current work includes process automation using Python, dashboard creation using PowerBI, and data engineering using SQL. He graduated with a MS in Data Analytics and Policy from Johns Hopkins University in 2022.
 :::
 
+
+::: bio-entry
+![](renn.jpg)
+
+### Jason Renn
+
+Duu (Jason) Renn is an Associate Professor in the Department of Politics and International Relations at Messiah University in Pennsylvania. He graduated from the University of Illinois at Urbana-Champaign in 2017 with a Ph.D. in Political Science. His research and teaching are primarily in International Relations with published articles on Peacekeeping, Civil Wars, and International Law. Previously, Dr. Renn taught at the University of Denver’s Josef Korbel School of International Studies and also worked for the Army Corps of Engineers.
+:::
+
+
 ## Judges
 
 ::: bio-entry

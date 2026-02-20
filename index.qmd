@@ -1,6 +1,6 @@
 ---
 pagetitle: Home
-title: "DAP | HACK 2026"
+title: "About"
 
 about:
   template: jolla
@@ -8,16 +8,21 @@ about:
   image-width: 600px
   image-shape: rectangle
 
+image: mark.png
 ---
 
+```{=html}
 <style>
 .about-contents, .about-entity {
   text-align: left;
 }
 </style>
+```
 
 We face a crisis in contemporary politics and government. In the United States and around the world, lived experience and study after study show that many citizens have lost confidence in the ability of government and the public sector to identify and address pressing challenges. From public health to migration to climate and everything in between, the public sector faces a doubting citizenry.
 
 To address public problems, we will need skilled analysts who can quickly process data, gather insights, and make recommendations to policymakers. That is the purpose of the Johns Hopkins University Data Analytics and Policy Hackathon (DAP \| HACK 2026). For two days in April, we will convene teams of JHU graduate students, who will bring the tools of data science to bear, demonstrating how these skills can help identify problems and motivate solution frameworks.
 
-The Hackathon is supported through the generosity of the Johns Hopkins University Nexus Grants.
+The Hackathon is supported through the generosity of the Johns Hopkins University Nexus Grants and executed in collaboration with Krieger School of Arts and Sciences, Advanced Academic Programs Division.
+
+![](images/KSAS.logo.cmyk_horizontal.blue.jpg){width="500"}

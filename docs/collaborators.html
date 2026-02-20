@@ -187,6 +187,13 @@ ul.task-list li input[type="checkbox"] {
 <p>Greg LeVay is a data scientist at the Cybersecurity and Infrastructure Security Agency (CISA), where he helps the agency operate more effectively through the use of data-backed methods. His current work includes process automation using Python, dashboard creation using PowerBI, and data engineering using SQL. He graduated with a MS in Data Analytics and Policy from Johns Hopkins University in 2022.</p>
 </section>
 </div>
+<div class="bio-entry">
+<p><img src="renn.jpg" class="img-fluid"></p>
+<section id="jason-renn" class="level3">
+<h3 data-anchor-id="jason-renn">Jason Renn</h3>
+<p>Duu (Jason) Renn is an Associate Professor in the Department of Politics and International Relations at Messiah University in Pennsylvania. He graduated from the University of Illinois at Urbana-Champaign in 2017 with a Ph.D.&nbsp;in Political Science. His research and teaching are primarily in International Relations with published articles on Peacekeeping, Civil Wars, and International Law. Previously, Dr.&nbsp;Renn taught at the University of Denver’s Josef Korbel School of International Studies and also worked for the Army Corps of Engineers.</p>
+</section>
+</div>
 </section>
 <section id="judges" class="level2">
 <h2 data-anchor-id="judges">Judges</h2>
@@ -291,7 +298,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/JHU-Data-Analytics-and-Policy\.github\.io\/DAP_Hackathon_26\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

@@ -112,7 +112,7 @@ Brian Powers
 
 The focus here is on safeguarding civic participation by improving information integrity and voter understanding amid polarized media and digital manipulation. It considers interventions like source labeling, content provenance, bot detection, and neutral issue summaries, aiming to increase knowledge without overwhelming or biasing users. The broader arc is a democratic ecosystem where rules are clear, data privacy is respected, and citizens can make informed choices with confidence.
 
-Josh Gamble
+
 <details>
 
 <summary>Zhiquan Jiang</summary>
@@ -126,14 +126,13 @@ Zhiquan Jiang is a Master’s student in Applied Economics at Johns Hopkins Univ
 ::::
 
 </details>
-Qikai Zhou
 
-Samuel Towler
 <details>
 <summary>Agung Putra</summary>
 
 :::: bio-content
 ![](agung-putra.jpg)
+
 
 ::: bio-text
 Agung Putra is a Johns Hopkins University graduate student pursuing an M.A. in Government in the Kreiger School of Arts & Sciences Advanced Academic Program. He earned his B.A. in Political Science and minored in Business Law at the University of Southern California. Agung is from Philadelphia and is excited to learn more about data analytics and attend his first hackathon.
@@ -141,6 +140,13 @@ Agung Putra is a Johns Hopkins University graduate student pursuing an M.A. in G
 ::::
 
 </details>
+
+
+Qikai Zhou
+
+Samuel Towler
+
+Josh Gamble
 
 ## Policy Evaluation and Public Trust
 
@@ -159,10 +165,35 @@ Yutan Zhang recently completed an M.S. in Applied Economics at Johns Hopkins Uni
 ::::
 
 </details>
-Jie Zhou
+<details>
 
-Zhuocheng Yan
+<summary>Yutan Zhang</summary>
 
-Yutong Li
+:::: bio-content
+![](jie_zhou.jpeg)
+
+::: bio-text
+Jie Zhou is a Master’s student in Financial Economics at Johns Hopkins University. His research interests lie at the intersection of finance and econometrics, with a focus on econometric methods and machine learning applications. He is particularly interested in using data-driven approaches to study macro financial dynamics and policy-relevant questions.
+
+:::
+::::
+</details>
+
+<details>
+
+<summary>Yutong Li</summary>
+
+:::: bio-content
+![](yutong_li.jpg)
+
+::: bio-text
+Yutong Li is pursuing an M.S. in Applied Economics in the Krieger School of Arts & Sciences Advanced Academic Programs at Johns Hopkins University. He serves as a research intern at IIF, where he focuses on macroeconomic analysis and international finance. His recent work includes constructing trade-weighted NEER/REER indices. He works primarily with R, Stata, Python, and EViews, applying time-series econometric models such as VAR, VECM, ARIMA, and GARCH. He is exploring roles in economic research and policy institutions.
+
+
+:::
+::::
+</details>
 
 Dan Wang
+
+Zhuocheng Yan
