@@ -5,6 +5,8 @@ project:
 format:
   html:
     css: styles.css
+    fig-format: webp
+    fig-dpi: 72
     
 
 website: 
