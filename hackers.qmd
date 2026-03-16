@@ -2,6 +2,7 @@
 title: "Hackathon Teams"
 about:
   template: solana
+toc: true
 ---
 
 ```{=html}
@@ -17,24 +18,47 @@ function toggleBio(id) {
 
 Our "hackers" are 25 current and recent JHU graduate students from the MS in Data Analytics and Policy, MS in Applied Economics, and MA in Government programs. Hackers are organized into five teams, each with a different substantive focus connected to our broader event theme.
 
-**Transparency in Government**
+## Transparency in Government
 
 This theme explores how governments can make decisions, budgets, and performance visible in ways that feel meaningful and trustworthy to residents. It centers on closing the promise–performance gap by pairing clear reporting with honest communication about uncertainty, trade-offs, and implementation progress. It also grapples with how privacy and security feature in transparency policy. The aim is to show how transparency, when designed for comprehension and accountability, can invite engagement rather than fuel cynicism.
 
--   Raymond Tam
+<details>
 
--   Jay Chok
+<summary>Jay Chok</summary>
 
--   Hitanshi Garg
+:::: bio-content
+![](jay_chok.jpg)
 
--   Wanyi Zhao
+::: bio-text
+Jay Chok is a graduate student majoring in Financial Economics at Johns Hopkins University, where he conducts research under Professor Steve Hanke who is a renowned economist, currency board advocate, and former senior economic advisor to President Ronald Reagan. Jay brings a robust technical background to his economic analysis, having earned a Bachelor of Science in Computer Engineering from Virginia Tech. Before transitioning to financial economics, he was a Software Product Engineer at Qualcomm in San Diego for 3 years.
+:::
+::::
 
--   Ming Zhu
+</details>
 
-**Energy and Climate Policy**
+Raymond Tam
+
+<details>
+
+<summary>Hitanshi Garg</summary>
+
+:::: bio-content
+![](garg.jpg)
+
+::: bio-text
+I am an MS in Applied Economics student at Johns Hopkins University. I also hold a BSc in Economics from the University of London (academic direction from LSE) and a Bachelor of Commerce from YCMOU. Previously, I interned in the Economic Analysis and Policy Division at the United Nations, contributing to the World Economic Situation and Prospects (2026). I specialize in panel-data and time-series econometric modeling using Python, R, STATA, and advanced Excel.
+:::
+::::
+
+</details>
+
+Wanyi Zhao
+
+Ming Zhu
+
+## Energy and Climate Policy
 
 This theme explores building institutional credibility through tangible improvements in affordability, reliability, and resilience, especially for communities facing high energy burdens or the effects of the climate crisis. The work brings together assistance program design, reliability disclosures, and targeted infrastructure investments, linking technical outcomes to perceived fairness and competence. The story is one of energy and climate policy that delivers visible benefits while communicating results in ways people can understand and trust.
-
 
 <details>
 
@@ -72,7 +96,7 @@ Saloni K Shah is an MS in Applied Economics student at Johns Hopkins University 
 ![](nadine-argott.jpg)
 
 ::: bio-text
-Nadine Argott is currently pursuing her Master's Degree in Data Analytics and Policy at Johns Hopkins. She brings strong skills in R and data visualization, with a keen focus on energy policy and affordability. Nadine has developed solid statistical modeling and data analysis skills, and she is eager to contribute her expertise at the 2026 AAP Hackathon. You can connect with Nadine on [LinkedIn ](https://www.linkedin.com/in/argottnadine/)and [GitHub](https://github.com/n-argott).
+Nadine Argott is currently pursuing her Master's Degree in Data Analytics and Policy at Johns Hopkins. She brings strong skills in R and data visualization, with a keen focus on energy policy and affordability. Nadine has developed solid statistical modeling and data analysis skills, and she is eager to contribute her expertise at the 2026 AAP Hackathon. You can connect with Nadine on [LinkedIn](https://www.linkedin.com/in/argottnadine/) and [GitHub](https://github.com/n-argott).
 :::
 ::::
 
@@ -82,31 +106,49 @@ Akshay Delity
 
 JP Furman
 
-**Social and Economic Justice**
+## Social and Economic Justice
 
 This theme examines how institutions can reduce disparities in access, outcomes, and treatment across health, justice, education, and employment. It looks for biased processes and bottlenecks that quietly shape inequity, and considers how transparency, accountability, and community co-design can shift both performance and perception. The narrative is about building systems that not only function better but also feel fair, respectful, and responsive to those they serve.
 
--   Jeanette Perthel
+Jeanette Perthel
 
--   Lauren Wilmoth
+Lauren Wilmoth
 
--   Arya Nair
+Arya Nair
 
--   Kristin Bruce
+<details>
 
--   Brian Powers
+<summary>Kristin Bruce</summary>
 
-**Democracy and Misinformation**
+:::: bio-content
+![](bruce.jpeg)
+
+::: bio-text
+Kristin Bruce is a graduate student in the Data Analytics and Policy program and has served in the U.S. Army since 2014. She currently serves as the Battalion Operations Officer for 2nd Battalion, 323rd Regiment. Kristin lives in Cameron, North Carolina with her husband, Trey, and their two children, Celia and Matthew. Her professional interests include government policy and public sector analysis, and she hopes to pursue future roles supporting Congress or the Government Accountability Office.
+:::
+::::
+
+</details>
+
+Brian Powers
+
+## Democracy and Misinformation
 
 The focus here is on safeguarding civic participation by improving information integrity and voter understanding amid polarized media and digital manipulation. It considers interventions like source labeling, content provenance, bot detection, and neutral issue summaries, aiming to increase knowledge without overwhelming or biasing users. The broader arc is a democratic ecosystem where rules are clear, data privacy is respected, and citizens can make informed choices with confidence.
 
--   Josh Gamble
+<details>
 
--   Zhiquan Jiang
+<summary>Zhiquan Jiang</summary>
 
--   Qikai Zhou
+:::: bio-content
+![](zhiquan_jiang.jpg)
 
--   Samuel Towler
+::: bio-text
+Zhiquan Jiang is a Master’s student in Applied Economics at Johns Hopkins University and holds a bachelor’s degree in International Studies – International Business from the University of California, San Diego. She focuses on quantitative analysis and econometric methods, and has experience using STATA, R, and Python for data modeling and analysis. Zhiquan looks forward to contributing her analytical skills and collaborating with teams to explore data-driven solutions at the Data Analytics and Policy Hackathon.
+:::
+::::
+
+</details>
 
 <details>
 
@@ -122,16 +164,70 @@ Agung Putra is a Johns Hopkins University graduate student pursuing an M.A. in G
 
 </details>
 
-**Policy Evaluation and Public Trust**
+<details>
+
+<summary>Qikai Zhou</summary>
+
+:::: bio-content
+![](qikai.jpeg)
+
+::: bio-text
+Qikai Zhou is a Master’s candidate in Government at Johns Hopkins University, specializing in quantitative policy analysis and political institutions. His research focuses on political polarization, governance, and data-driven approaches to public policy. With a background in economics and statistics from the University of Toronto, he applies statistical modeling and machine learning to analyze political and social policy challenges. He is particularly interested in using data analytics to improve policy design, governance transparency, and public sector decision making.
+:::
+::::
+
+</details>
+
+Samuel Towler
+
+Josh Gamble
+
+## Policy Evaluation and Public Trust
 
 This theme is about closing the loop between policy promises and lived outcomes through rigorous yet practical evaluation and feedback. It emphasizes citizen-relevant metrics, lightweight data pipelines, and iterative improvements that are visible in everyday interactions with public services. The narrative highlights how clear, accessible reporting can turn evaluation into a trust-building practice that demonstrates competence and progress over time.
 
--   Yutan Zhang
+<details>
 
--   Jie Zhou
+<summary>Yutan Zhang</summary>
 
--   Zhuocheng Yan
+:::: bio-content
+![](yutan_zhang.jpg)
 
--   Yutong Li
+::: bio-text
+Yutan Zhang recently completed an M.S. in Applied Economics at Johns Hopkins University and is based in Washington, DC. Her background is in applied econometrics and policy evaluation, with a focus on health and labor policy, drawing on insights from behavioral economics.
+:::
+::::
 
--   Dan Wang
+</details>
+
+<details>
+
+<summary>Jie Zhou</summary>
+
+:::: bio-content
+![](jie_zhou.jpeg)
+
+::: bio-text
+Jie Zhou is a Master’s student in Financial Economics at Johns Hopkins University. His research interests lie at the intersection of finance and econometrics, with a focus on econometric methods and machine learning applications. He is particularly interested in using data-driven approaches to study macro financial dynamics and policy-relevant questions.
+:::
+::::
+
+</details>
+
+<details>
+
+<summary>Yutong Li</summary>
+
+:::: bio-content
+![](yutong_li.jpg)
+
+::: bio-text
+Yutong Li is pursuing an M.S. in Applied Economics in the Krieger School of Arts & Sciences Advanced Academic Programs at Johns Hopkins University. He serves as a research intern at IIF, where he focuses on macroeconomic analysis and international finance. His recent work includes constructing trade-weighted NEER/REER indices. He works primarily with R, Stata, Python, and EViews, applying time-series econometric models such as VAR, VECM, ARIMA, and GARCH. He is exploring roles in economic research and policy institutions.
+:::
+::::
+
+</details>
+
+Dan Wang
+
+Zhuocheng Yan
