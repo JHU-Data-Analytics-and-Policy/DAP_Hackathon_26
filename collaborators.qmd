@@ -10,7 +10,7 @@ We are pleased to welcome a number of outside collaborators who are supporting o
 ## Featured Speakers
 
 ::: bio-entry
-![](ghertner.jpg)
+![](ghertner.webp)
 
 ### Robin Ghertner
 
@@ -18,7 +18,7 @@ Robin is the Director of the Division of Data and Technical Analysis in the Offi
 :::
 
 ::: bio-entry
-![](chen.jpg)
+![](chen.webp)
 
 ### Lula Chen
 
@@ -29,7 +29,7 @@ Lula is the Research Director at MIT Governance Lab, where she currently works o
 ## Project Consultants
 
 ::: bio-entry
-![](lawson.jpg)
+![](lawson.webp)
 
 ### Pete Lawson
 
@@ -37,7 +37,7 @@ Pete Lawson is the Data and Visualization Librarian in Data Services at the John
 :::
 
 ::: bio-entry
-![](nooning.jpg)
+![](nooning.webp)
 
 ### K'lila Nooning
 
@@ -56,7 +56,7 @@ Greg LeVay is a data scientist at the Cybersecurity and Infrastructure Security 
 
 
 ::: bio-entry
-![](renn.jpg)
+![](renn.webp)
 
 ### Jason Renn
 
@@ -67,7 +67,7 @@ Duu (Jason) Renn is an Associate Professor in the Department of Politics and Int
 ## Judges
 
 ::: bio-entry
-![](allen.jpg)
+![](allen.webp)
 
 ### Jeff Allen
 
@@ -81,7 +81,7 @@ Allen received a PhD in International Political Economy from Johns Hopkins Unive
 :::
 
 ::: bio-entry
-![](damiano.png)
+![](damiano.webp)
 
 ### Pete Damiano
 
