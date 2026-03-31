@@ -16,7 +16,7 @@ function toggleBio(id) {
 </script>
 ```
 
-Our "hackers" are 25 current and recent JHU graduate students from the MS in Data Analytics and Policy, MS in Applied Economics, and MA in Government programs. Hackers are organized into five teams, each with a different substantive focus connected to our broader event theme.
+Our "hackers" are current and recent JHU graduate students from the MS in Data Analytics and Policy, MS in Applied Economics, and MA in Government programs. Hackers are organized into five teams, each with a different substantive focus connected to our broader event theme.
 
 ## Transparency in Government
 
