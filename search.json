@@ -7,39 +7,67 @@
     "text": "The JHU Data Analytics and Policy Hackathon will be held at the Hopkins Bloomberg Center at 555 Pennsylvania Avenue NW, Washington, DC 20001.\nFriday, April 10\n11:00am - noon: Check in in Room B250\nNoon: Lunch, opening comments, and organization\n1:00 - 3:00pm: Work Session 1\n3:00 - 3:30pm: Snacks and status updates\n3:30 - 6:00pm: Work Session 2\n6:00 - 7:00pm: Dinner and featured speaker Robin Ghertner\n7:00pm and onwards - continue your work as needed, then get some rest.\nSaturday, April 11\n9:00am: Gather at the building; light snacks will be available starting at about 9:30.\n9:30 - noon: Work Session 3\nNoon to 1:30pm: Lunch and featured speaker Lula Chen\n1:30 - 3:00pm: Final preparations\n3:00 - 5:00pm: Presentations and closing"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "We face a crisis in contemporary politics and government. In the United States and around the world, lived experience and study after study show that many citizens have lost confidence in the ability of government and the public sector to identify and address pressing challenges. From public health to migration to climate and everything in between, the public sector faces a doubting citizenry.\nTo address public problems, we will need skilled analysts who can quickly process data, gather insights, and make recommendations to policymakers. That is the purpose of the Johns Hopkins University Data Analytics and Policy Hackathon (DAP | HACK 2026). For two days in April, we will convene teams of JHU graduate students, who will bring the tools of data science to bear, demonstrating how these skills can help identify problems and motivate solution frameworks.\nThe Hackathon is supported through the generosity of the Johns Hopkins University Nexus Grants and executed in collaboration with the Krieger School of Arts and Sciences, Advanced Academic Programs Division."
+    "objectID": "intro.html#introductions",
+    "href": "intro.html#introductions",
+    "title": "Data Analytics and Policy Hackathon",
+    "section": "Introductions",
+    "text": "Introductions\nCollin Paschall\nChris Kromphardt\nAlan Lujan\nMany collaborators!"
   },
   {
-    "objectID": "collaborators.html",
-    "href": "collaborators.html",
-    "title": "Collaborators",
-    "section": "",
-    "text": "We are pleased to welcome a number of outside collaborators who are supporting our event through their scholarship and professional support."
+    "objectID": "intro.html#charge",
+    "href": "intro.html#charge",
+    "title": "Data Analytics and Policy Hackathon",
+    "section": "Charge",
+    "text": "Charge\n\nWe face a crisis in contemporary politics and government. In the United States and around the world, lived experience and study after study show that many citizens have lost confidence in the ability of government and the public sector to identify and address pressing challenges. From public health to migration to climate and everything in between, the public sector faces a doubting citizenry.\nTo address public problems, we will need skilled analysts who can quickly process data, gather insights, and make recommendations to policymakers."
   },
   {
-    "objectID": "collaborators.html#featured-speakers",
-    "href": "collaborators.html#featured-speakers",
-    "title": "Collaborators",
-    "section": "Featured Speakers",
-    "text": "Featured Speakers\n\n\n\nRobin Ghertner\nRobin is the Director of the Division of Data and Technical Analysis in the Office of the Assistant Secretary for Planning and Evaluation, within the U.S. Department of Health and Human Services. Robin directs a broad portfolio of projects taking advantage of quantitative and qualitative analysis as well as survey and administrative data. These include analysis on economic mobility, health and human services integration, AI in human services agencies, the relationship between substance use and foster care caseloads, and many other topics. He has expertise in a wide range of statistical methods, qualitative methods, and survey design and administration, and familiarity with numerous federal statistical surveys. Before his time at HHS, Robin was a senior research analyst and lead statistician in the Office of Research and Evaluation at AmeriCorps. In this role, Ghertner led a portfolio of research on improving grant-making processes, grantee community impact, and national service member outcomes. Prior to working for the federal government, Robin provided direct services in New York City in various capacities. Among other projects, he implemented the nation’s largest translation and interpretation policy for the NYC Department of Education, and directed a social service program for immigrants in Queens.\n\n\n\n\n\nLula Chen\nLula is the Research Director at MIT Governance Lab, where she currently works on projects about trust, governance, deliberation, technology in government, and AI. She specializes in policy evaluation using randomized controlled trials, surveys, and causal inference methods. She also serves as a Senior Evaluator with the Office of Evaluation Sciences in the U.S. General Services Administration. Lula holds a BSFS in Comparative Studies and an MA in Security Studies from Georgetown University. She received her PhD in Political Science from the University of Illinois at Urbana-Champaign."
+    "objectID": "intro.html#teams",
+    "href": "intro.html#teams",
+    "title": "Data Analytics and Policy Hackathon",
+    "section": "Teams",
+    "text": "Teams\nTransparency in Government\nEnergy and Climate Policy\nSocial and Economic Justice\nDemocracy and Misinformation\nPolicy Evaluation and Public Trust"
   },
   {
-    "objectID": "collaborators.html#project-consultants",
-    "href": "collaborators.html#project-consultants",
-    "title": "Collaborators",
-    "section": "Project Consultants",
-    "text": "Project Consultants\n\n\n\nPete Lawson\nPete Lawson is the Data and Visualization Librarian in Data Services at the Johns Hopkins University Sheridan Libraries. Pete has a Ph.D. from Tulane University, where he developed new machine-learning approaches to assess and visualize the presence and progression of prostate cancer in digital histology. As the Data and Visualization Librarian, Pete works directly with researchers to help them find, use, and visualize data. Pete also teaches workshops on data visualization in R and Python.\n\n\n\n\n\nK’lila Nooning\nK’lila Nooning is a Data Engineer with the Bloomberg Center for Government Excellence (GovEx), dedicated to making complex data more trustworthy, accessible, and useful for the communities it serves. They design and build data pipelines that bring rigor to messy, real-world data, specializing in uncertainty quantification, error-propagation methodologies, and data quality assurance.\nBefore joining GovEx, K’lila built expertise across public-sector and nonprofit roles, developing skills in coding, business intelligence, data warehousing, and analytics. They hold an MSPH in Biostatistics from Tulane University and are driven by a belief that good data infrastructure is foundational to equitable, evidence-based governance and that the communities most affected by policy decisions deserve data that accurately reflects their realities.\n\n\n\n\n\nGreg LeVay\nGreg LeVay is a data scientist at the Cybersecurity and Infrastructure Security Agency (CISA), where he helps the agency operate more effectively through the use of data-backed methods. His current work includes process automation using Python, dashboard creation using PowerBI, and data engineering using SQL. He graduated with a MS in Data Analytics and Policy from Johns Hopkins University in 2022.\n\n\n\n\n\nJason Renn\nDuu (Jason) Renn is an Associate Professor in the Department of Politics and International Relations at Messiah University in Pennsylvania. He graduated from the University of Illinois at Urbana-Champaign in 2017 with a Ph.D. in Political Science. His research and teaching are primarily in International Relations with published articles on Peacekeeping, Civil Wars, and International Law. Previously, Dr. Renn taught at the University of Denver’s Josef Korbel School of International Studies and also worked for the Army Corps of Engineers."
+    "objectID": "intro.html#schedule",
+    "href": "intro.html#schedule",
+    "title": "Data Analytics and Policy Hackathon",
+    "section": "Schedule",
+    "text": "Schedule\nRooms\n\nB250 - Convening - Food, talks, snacks\nB240 - Work room\nB244 - Breakout, extra space\n\nThe whole building!"
   },
   {
-    "objectID": "collaborators.html#judges",
-    "href": "collaborators.html#judges",
-    "title": "Collaborators",
-    "section": "Judges",
-    "text": "Judges\n\n\n\nJeff Allen\nAt Johns Hopkins, Jeff Allen is a lecturer for the MS in Data Analytics and Policy program and the recipient of the program’s 2023-24 Excellence in Teaching Award. His research focuses on applying statistical modeling and machine learning to monitor aspects of the global financial system and to evaluate the efficacy of financial innovations. His academic research has appeared in the Journal of Economics and Finance, Business and Politics, PLoS ONE, and the Federal Reserve’s Finance and Economics Discussion Series.\nBeyond his role at Johns Hopkins, Allen is a lead analyst at the Federal Reserve Board, where he focuses on payment technology research and financial stability issues. In 2024, he won the Board’s Special Achievement Award for contributions in these areas. Allen previously served as a risk modeling and analytics specialist at the Federal Reserve Bank of New York. He joined the Fed from the World Bank and previously held a variety of positions in financial public policy.\nAllen received a PhD in International Political Economy from Johns Hopkins University.\nDisclaimer: the views expressed in Allen’s teaching and research are his own and do not necessarily represent those of his employer.\n\n\n\n\n\nPete Damiano\nPete Damiano is the Bernstein Endowed Professor at the University of Iowa, in the Department of Preventive and Community Dentistry. A UI faculty member for 35 years, Dr. Damiano conducts externally-funded health services/policy research focusing on health disparities, including access to and quality of primary care services for underserved populations. He also teaches health policy-related classes in multiple units on campus. He directed the UI Public Policy Center for 15 years, emphasizing the importance of experiential community-based research and public policy education. He is the author of more than 300 journal articles and research monographs and has been principal investigator on more than 90 funded research studies. Dr. Damiano saw dental patients, including special needs adults, in the UI faculty practice for 35 years.\n\n\n\n\n\nSarah O’Byrne\nSarah O’Byrne is the Director and a senior lecturer for the Center for Data Analytics, Policy, and Government. She has been teaching in the program since 2007 and currently teaches courses in global political economy, economics for public policy, political economy of development, corruption, and comparative democracies. She received an AAP Excellence in Teaching Award in 2014.\nO’Byrne’s research and writing take an interdisciplinary approach that combines political science and economic perspectives and tools. She is currently examining the role of epistemic communities on policy outcomes, specifically in the area of development aid and corruption.\nShe holds a Bachelor of Arts in economics from Trinity College, Dublin, and a Master of Arts in economics and PhD in political science from Johns Hopkins University."
+    "objectID": "intro.html#ground-rules",
+    "href": "intro.html#ground-rules",
+    "title": "Data Analytics and Policy Hackathon",
+    "section": "Ground Rules",
+    "text": "Ground Rules\nFriendly and respectful collaboration!\nAsk for help!\nHave fun!"
+  },
+  {
+    "objectID": "intro.html#presentations",
+    "href": "intro.html#presentations",
+    "title": "Data Analytics and Policy Hackathon",
+    "section": "Presentations",
+    "text": "Presentations\n10-15 minutes on Saturday afternoon.\nPresentations should explain how the team pursued the following outcomes and objectives:\n\nProblem definition\nQuantitative analysis\nStakeholder recommendations"
+  },
+  {
+    "objectID": "intro.html#problem-definition",
+    "href": "intro.html#problem-definition",
+    "title": "Data Analytics and Policy Hackathon",
+    "section": "Problem Definition",
+    "text": "Problem Definition\n\nAddresses these questions: what the problem is; when and where it occurs; whom it affects; why it occurs; why it matters\nDescribes how data or other evidence supports these answers\nSpecifies the precise scope and context where the results of the quantitative analysis are intended to apply"
+  },
+  {
+    "objectID": "intro.html#quantitative-analysis",
+    "href": "intro.html#quantitative-analysis",
+    "title": "Data Analytics and Policy Hackathon",
+    "section": "Quantitative Analysis",
+    "text": "Quantitative Analysis\n\nExplains methods, limitations, and outcomes of data collection, preparation, and analysis\nAddresses these questions: how strong the evidence is in the context in which the data were collected (internal validity); how well the evidence relates to the precise scope and context of the problem definition (external validity)"
+  },
+  {
+    "objectID": "intro.html#stakeholder-recommendations",
+    "href": "intro.html#stakeholder-recommendations",
+    "title": "Data Analytics and Policy Hackathon",
+    "section": "Stakeholder Recommendations",
+    "text": "Stakeholder Recommendations\n\nAddresses these questions: who cares about the problem and has power to implement policy interventions; what actions the stakeholder(s) should take; what trade-offs are associated with the recommended actions"
   },
   {
     "objectID": "hackers.html",
@@ -82,6 +110,41 @@
     "title": "Hackathon Teams",
     "section": "Policy Evaluation and Public Trust",
     "text": "Policy Evaluation and Public Trust\nThis theme is about closing the loop between policy promises and lived outcomes through rigorous yet practical evaluation and feedback. It emphasizes citizen-relevant metrics, lightweight data pipelines, and iterative improvements that are visible in everyday interactions with public services. The narrative highlights how clear, accessible reporting can turn evaluation into a trust-building practice that demonstrates competence and progress over time.\n\n\nYutan Zhang\n\n\n\n\nYutan Zhang recently completed an M.S. in Applied Economics at Johns Hopkins University and is based in Washington, DC. Her background is in applied econometrics and policy evaluation, with a focus on health and labor policy, drawing on insights from behavioral economics.\n\n\n\n\n\nJie Zhou\n\n\n\n\nJie Zhou is a Master’s student in Financial Economics at Johns Hopkins University. His research interests lie at the intersection of finance and econometrics, with a focus on econometric methods and machine learning applications. He is particularly interested in using data-driven approaches to study macro financial dynamics and policy-relevant questions.\n\n\n\n\n\nYutong Li\n\n\n\n\nYutong Li is pursuing an M.S. in Applied Economics in the Krieger School of Arts & Sciences Advanced Academic Programs at Johns Hopkins University. He serves as a research intern at IIF, where he focuses on macroeconomic analysis and international finance. His recent work includes constructing trade-weighted NEER/REER indices. He works primarily with R, Stata, Python, and EViews, applying time-series econometric models such as VAR, VECM, ARIMA, and GARCH. He is exploring roles in economic research and policy institutions.\n\n\n\nDan Wang\nZhuocheng Yan"
+  },
+  {
+    "objectID": "collaborators.html",
+    "href": "collaborators.html",
+    "title": "Collaborators",
+    "section": "",
+    "text": "We are pleased to welcome a number of outside collaborators who are supporting our event through their scholarship and professional support."
+  },
+  {
+    "objectID": "collaborators.html#featured-speakers",
+    "href": "collaborators.html#featured-speakers",
+    "title": "Collaborators",
+    "section": "Featured Speakers",
+    "text": "Featured Speakers\n\n\n\nRobin Ghertner\nRobin is the Director of the Division of Data and Technical Analysis in the Office of the Assistant Secretary for Planning and Evaluation, within the U.S. Department of Health and Human Services. Robin directs a broad portfolio of projects taking advantage of quantitative and qualitative analysis as well as survey and administrative data. These include analysis on economic mobility, health and human services integration, AI in human services agencies, the relationship between substance use and foster care caseloads, and many other topics. He has expertise in a wide range of statistical methods, qualitative methods, and survey design and administration, and familiarity with numerous federal statistical surveys. Before his time at HHS, Robin was a senior research analyst and lead statistician in the Office of Research and Evaluation at AmeriCorps. In this role, Ghertner led a portfolio of research on improving grant-making processes, grantee community impact, and national service member outcomes. Prior to working for the federal government, Robin provided direct services in New York City in various capacities. Among other projects, he implemented the nation’s largest translation and interpretation policy for the NYC Department of Education, and directed a social service program for immigrants in Queens.\n\n\n\n\n\nLula Chen\nLula is the Research Director at MIT Governance Lab, where she currently works on projects about trust, governance, deliberation, technology in government, and AI. She specializes in policy evaluation using randomized controlled trials, surveys, and causal inference methods. She also serves as a Senior Evaluator with the Office of Evaluation Sciences in the U.S. General Services Administration. Lula holds a BSFS in Comparative Studies and an MA in Security Studies from Georgetown University. She received her PhD in Political Science from the University of Illinois at Urbana-Champaign."
+  },
+  {
+    "objectID": "collaborators.html#project-consultants",
+    "href": "collaborators.html#project-consultants",
+    "title": "Collaborators",
+    "section": "Project Consultants",
+    "text": "Project Consultants\n\n\n\nPete Lawson\nPete Lawson is the Data and Visualization Librarian in Data Services at the Johns Hopkins University Sheridan Libraries. Pete has a Ph.D. from Tulane University, where he developed new machine-learning approaches to assess and visualize the presence and progression of prostate cancer in digital histology. As the Data and Visualization Librarian, Pete works directly with researchers to help them find, use, and visualize data. Pete also teaches workshops on data visualization in R and Python.\n\n\n\n\n\nK’lila Nooning\nK’lila Nooning is a Data Engineer with the Bloomberg Center for Government Excellence (GovEx), dedicated to making complex data more trustworthy, accessible, and useful for the communities it serves. They design and build data pipelines that bring rigor to messy, real-world data, specializing in uncertainty quantification, error-propagation methodologies, and data quality assurance.\nBefore joining GovEx, K’lila built expertise across public-sector and nonprofit roles, developing skills in coding, business intelligence, data warehousing, and analytics. They hold an MSPH in Biostatistics from Tulane University and are driven by a belief that good data infrastructure is foundational to equitable, evidence-based governance and that the communities most affected by policy decisions deserve data that accurately reflects their realities.\n\n\n\n\n\nGreg LeVay\nGreg LeVay is a data scientist at the Cybersecurity and Infrastructure Security Agency (CISA), where he helps the agency operate more effectively through the use of data-backed methods. His current work includes process automation using Python, dashboard creation using PowerBI, and data engineering using SQL. He graduated with a MS in Data Analytics and Policy from Johns Hopkins University in 2022.\n\n\n\n\n\nJason Renn\nDuu (Jason) Renn is an Associate Professor in the Department of Politics and International Relations at Messiah University in Pennsylvania. He graduated from the University of Illinois at Urbana-Champaign in 2017 with a Ph.D. in Political Science. His research and teaching are primarily in International Relations with published articles on Peacekeeping, Civil Wars, and International Law. Previously, Dr. Renn taught at the University of Denver’s Josef Korbel School of International Studies and also worked for the Army Corps of Engineers."
+  },
+  {
+    "objectID": "collaborators.html#judges",
+    "href": "collaborators.html#judges",
+    "title": "Collaborators",
+    "section": "Judges",
+    "text": "Judges\n\n\n\nJeff Allen\nAt Johns Hopkins, Jeff Allen is a lecturer for the MS in Data Analytics and Policy program and the recipient of the program’s 2023-24 Excellence in Teaching Award. His research focuses on applying statistical modeling and machine learning to monitor aspects of the global financial system and to evaluate the efficacy of financial innovations. His academic research has appeared in the Journal of Economics and Finance, Business and Politics, PLoS ONE, and the Federal Reserve’s Finance and Economics Discussion Series.\nBeyond his role at Johns Hopkins, Allen is a lead analyst at the Federal Reserve Board, where he focuses on payment technology research and financial stability issues. In 2024, he won the Board’s Special Achievement Award for contributions in these areas. Allen previously served as a risk modeling and analytics specialist at the Federal Reserve Bank of New York. He joined the Fed from the World Bank and previously held a variety of positions in financial public policy.\nAllen received a PhD in International Political Economy from Johns Hopkins University.\nDisclaimer: the views expressed in Allen’s teaching and research are his own and do not necessarily represent those of his employer.\n\n\n\n\n\nPete Damiano\nPete Damiano is the Bernstein Endowed Professor at the University of Iowa, in the Department of Preventive and Community Dentistry. A UI faculty member for 35 years, Dr. Damiano conducts externally-funded health services/policy research focusing on health disparities, including access to and quality of primary care services for underserved populations. He also teaches health policy-related classes in multiple units on campus. He directed the UI Public Policy Center for 15 years, emphasizing the importance of experiential community-based research and public policy education. He is the author of more than 300 journal articles and research monographs and has been principal investigator on more than 90 funded research studies. Dr. Damiano saw dental patients, including special needs adults, in the UI faculty practice for 35 years.\n\n\n\n\n\nSarah O’Byrne\nSarah O’Byrne is the Director and a senior lecturer for the Center for Data Analytics, Policy, and Government. She has been teaching in the program since 2007 and currently teaches courses in global political economy, economics for public policy, political economy of development, corruption, and comparative democracies. She received an AAP Excellence in Teaching Award in 2014.\nO’Byrne’s research and writing take an interdisciplinary approach that combines political science and economic perspectives and tools. She is currently examining the role of epistemic communities on policy outcomes, specifically in the area of development aid and corruption.\nShe holds a Bachelor of Arts in economics from Trinity College, Dublin, and a Master of Arts in economics and PhD in political science from Johns Hopkins University."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "We face a crisis in contemporary politics and government. In the United States and around the world, lived experience and study after study show that many citizens have lost confidence in the ability of government and the public sector to identify and address pressing challenges. From public health to migration to climate and everything in between, the public sector faces a doubting citizenry.\nTo address public problems, we will need skilled analysts who can quickly process data, gather insights, and make recommendations to policymakers. That is the purpose of the Johns Hopkins University Data Analytics and Policy Hackathon (DAP | HACK 2026). For two days in April, we will convene teams of JHU graduate students, who will bring the tools of data science to bear, demonstrating how these skills can help identify problems and motivate solution frameworks.\nThe Hackathon is supported through the generosity of the Johns Hopkins University Nexus Grants and executed in collaboration with the Krieger School of Arts and Sciences, Advanced Academic Programs Division."
   },
   {
     "objectID": "organizers.html",
