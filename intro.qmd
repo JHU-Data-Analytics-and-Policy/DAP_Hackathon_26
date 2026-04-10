@@ -1,0 +1,83 @@
+---
+title: "Data Analytics and Policy Hackathon"
+format: revealjs
+editor: visual
+---
+
+## Introductions
+
+Collin Paschall
+
+Chris Kromphardt
+
+Alan Lujan
+
+Many collaborators!
+
+## Charge
+
+-   We face a crisis in contemporary politics and government. In the United States and around the world, lived experience and study after study show that many citizens have lost confidence in the ability of government and the public sector to identify and address pressing challenges. From public health to migration to climate and everything in between, the public sector faces a doubting citizenry.
+
+-   To address public problems, we will need skilled analysts who can quickly process data, gather insights, and make recommendations to policymakers.
+
+## Teams
+
+Transparency in Government
+
+Energy and Climate Policy
+
+Social and Economic Justice
+
+Democracy and Misinformation
+
+Policy Evaluation and Public Trust
+
+## Schedule
+
+Rooms
+
+-   B250 - Convening - Food, talks, snacks
+
+-   B240 - Work room
+
+-   B244 - Breakout, extra space
+
+The whole building!
+
+## Ground Rules
+
+Friendly and respectful collaboration!
+
+Ask for help!
+
+Have fun!
+
+## Presentations
+
+10-15 minutes on Saturday afternoon.
+
+Presentations should explain how the team pursued the following outcomes and objectives:
+
+-   Problem definition
+
+-   Quantitative analysis
+
+-   Stakeholder recommendations
+
+## Problem Definition
+
+-   Addresses these questions: what the problem is; when and where it occurs; whom it affects; why it occurs; why it matters
+
+-   Describes how data or other evidence supports these answers
+
+-   Specifies the precise scope and context where the results of the quantitative analysis are intended to apply
+
+## Quantitative Analysis
+
+-   Explains methods, limitations, and outcomes of data collection, preparation, and analysis
+
+-   Addresses these questions: how strong the evidence is in the context in which the data were collected (internal validity); how well the evidence relates to the precise scope and context of the problem definition (external validity)
+
+## Stakeholder Recommendations
+
+-   Addresses these questions: who cares about the problem and has power to implement policy interventions; what actions the stakeholder(s) should take; what trade-offs are associated with the recommended actions

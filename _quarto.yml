@@ -23,3 +23,5 @@ website:
         href: collaborators.qmd
       - text: Hackathon Teams
         href: hackers.qmd
+      - text: Intro Presentation
+        href: intro.qmd
